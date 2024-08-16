@@ -56,6 +56,7 @@ Clone this repository and run the script on your Linux system:
 ```bash
 git clone https://github.com/omar1593321/User-Admin-TUI.git
 cd User-Admin-TUI
+chmod +x *
 ./main_menu.sh
 ```
 ## Usage
