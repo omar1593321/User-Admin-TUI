@@ -57,8 +57,15 @@ Clone this repository and run the script on your Linux system:
 git clone https://github.com/omar1593321/User-Admin-TUI.git
 cd User-Admin-TUI
 ./main_menu.sh
-
+```
 ## Usage
 Follow the on-screen prompts to manage users and groups efficiently. The menu-driven interface guides you through each step, ensuring a smooth and error-free experience.
 
-## Screenshots:
+### Screenshots:
+[Screenshot 2024-08-16 150313](https://github.com/user-attachments/assets/480e719d-3a21-4b8d-bb4e-8b2ec2d644a0)
+![Screenshot 2024-08-16 150330](https://github.com/user-attachments/assets/196d0efa-c8ef-4b64-8ab8-48a63d37b9b6)
+![Screenshot 2024-08-16 150349](https://github.com/user-attachments/assets/c531f539-f4a8-411a-aa91-cab5859684d6)
+![Screenshot 2024-08-16 150416](https://github.com/user-attachments/assets/1c7c67c3-ab36-402d-8a1f-8904dec867e1)
+![Screenshot 2024-08-16 150434](https://github.com/user-attachments/assets/44e2f09b-1887-4a03-8554-867843f68baa)
+![Screenshot 2024-08-16 150519](https://github.com/user-attachments/assets/fbcf9201-f52f-4731-8211-f4de09d233ae)
+
