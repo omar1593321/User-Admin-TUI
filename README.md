@@ -43,9 +43,22 @@ A comprehensive Text-based User Interface (TUI) for managing user accounts and g
   - Change the password of a user securely.
   - Confirms user existence before proceeding with the password change.
 
+
 ### System Information
 - **List Users:**
   - Display a list of all users currently on the system.
 - **About:**
   - Provides information about the program, its purpose, and how to use it.
 
+## Installation
+Clone this repository and run the script on your Linux system:
+
+```bash
+git clone https://github.com/omar1593321/User-Admin-TUI.git
+cd User-Admin-TUI
+./main_menu.sh
+
+## Usage
+Follow the on-screen prompts to manage users and groups efficiently. The menu-driven interface guides you through each step, ensuring a smooth and error-free experience.
+
+## Screenshots:
